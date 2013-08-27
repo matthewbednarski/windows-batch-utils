@@ -14,7 +14,7 @@ Files
   - it shows how the parsed options can be used directly to print ":help" or shoe ":debug" info.
 
 + date_vars.bat
-  - a .bat to set the various parts of a standard, international date-time, it sets:
+  - a .bat which uses WMIC to set the various parts of a standard, international date-time, it sets:
     + anno (year)
     + mese (month)
     + giorno (day)
