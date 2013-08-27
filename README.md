@@ -1,4 +1,6 @@
-windows-batch-utils
+Windows-Batch-Utils
 ===================
 
-Windows Batch Utilities
+Windows Batch Utilities that make my life a little easier sometimes.
+
+
