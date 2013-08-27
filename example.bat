@@ -4,7 +4,7 @@ setlocal enableDelayedExpansion
 set d=%~dp0
 set "options=-dir:"%CD%" -keep:15 -pattern:"" -help: -?: -d: -debug:"
 
-call %d%\getopts.bat %*
+call %d%\options.bat %*
 
 if !-help!==1 (
 	set -?=1
